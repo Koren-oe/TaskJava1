@@ -5,19 +5,9 @@
 На тестирование затрачено: 1 час
 
 ### В результате тестирования выявлены следующие дефекты:
-1. https://github.com/Koren-oe/TaskJava1/issues/2#issue-854244447
-2. https://github.com/Koren-oe/TaskJava1/issues/3#issue-854247549
-3. https://github.com/Koren-oe/TaskJava1/issues/4#issue-854250016
-4. https://github.com/Koren-oe/TaskJava1/issues/5#issue-854252182
-5. https://github.com/Koren-oe/TaskJava1/issues/6#issue-854255413
-6. https://github.com/Koren-oe/TaskJava1/issues/7#issue-854256976
-7. https://github.com/Koren-oe/TaskJava1/issues/8#issue-854258546
-8. https://github.com/Koren-oe/TaskJava1/issues/9#issue-854260003
-9. https://github.com/Koren-oe/TaskJava1/issues/10#issue-854261383
-10. https://github.com/Koren-oe/TaskJava1/issues/11#issue-854265363
-11. https://github.com/Koren-oe/TaskJava1/issues/12#issue-854266829
-12. https://github.com/Koren-oe/TaskJava1/issues/13#issue-854268137
-13. https://github.com/Koren-oe/TaskJava1/issues/14#issue-854269491
+
+1. https://github.com/Koren-oe/TaskJava1/issues/6#issue-854255413
+2. https://github.com/Koren-oe/TaskJava1/issues/11#issue-854265363
 
 ### Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
